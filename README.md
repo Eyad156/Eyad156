@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eyad Emad</h1>
-<h3 align="center">Full-Stack Web developer, Web Scraper , Bot Automation</h3>
+<h3 align="center">Full-Stack Web Developer, Web Scraper , Bot Automation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyad156&label=Profile%20views&color=0e75b6&style=flat" alt="eyad156" /> </p>
 
